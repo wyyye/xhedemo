@@ -8,6 +8,10 @@ public class test {
 		int a=10;
 		a =11;
 		
+		
+		
+		System.out.println();
+		
 		System.out.println();
 	}
 
